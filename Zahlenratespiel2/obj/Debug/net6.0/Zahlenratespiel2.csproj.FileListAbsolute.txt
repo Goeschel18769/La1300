@@ -1,0 +1,15 @@
+C:\Users\haldi\Downloads\Schule\BBBaden\2.IMS\C# Projekte\Zahlenratespiel2\bin\Debug\net6.0\Zahlenratespiel2.exe
+C:\Users\haldi\Downloads\Schule\BBBaden\2.IMS\C# Projekte\Zahlenratespiel2\bin\Debug\net6.0\Zahlenratespiel2.deps.json
+C:\Users\haldi\Downloads\Schule\BBBaden\2.IMS\C# Projekte\Zahlenratespiel2\bin\Debug\net6.0\Zahlenratespiel2.runtimeconfig.json
+C:\Users\haldi\Downloads\Schule\BBBaden\2.IMS\C# Projekte\Zahlenratespiel2\bin\Debug\net6.0\Zahlenratespiel2.dll
+C:\Users\haldi\Downloads\Schule\BBBaden\2.IMS\C# Projekte\Zahlenratespiel2\bin\Debug\net6.0\Zahlenratespiel2.pdb
+C:\Users\haldi\Downloads\Schule\BBBaden\2.IMS\C# Projekte\Zahlenratespiel2\obj\Debug\net6.0\Zahlenratespiel2.csproj.AssemblyReference.cache
+C:\Users\haldi\Downloads\Schule\BBBaden\2.IMS\C# Projekte\Zahlenratespiel2\obj\Debug\net6.0\Zahlenratespiel2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haldi\Downloads\Schule\BBBaden\2.IMS\C# Projekte\Zahlenratespiel2\obj\Debug\net6.0\Zahlenratespiel2.AssemblyInfoInputs.cache
+C:\Users\haldi\Downloads\Schule\BBBaden\2.IMS\C# Projekte\Zahlenratespiel2\obj\Debug\net6.0\Zahlenratespiel2.AssemblyInfo.cs
+C:\Users\haldi\Downloads\Schule\BBBaden\2.IMS\C# Projekte\Zahlenratespiel2\obj\Debug\net6.0\Zahlenratespiel2.csproj.CoreCompileInputs.cache
+C:\Users\haldi\Downloads\Schule\BBBaden\2.IMS\C# Projekte\Zahlenratespiel2\obj\Debug\net6.0\Zahlenratespiel2.dll
+C:\Users\haldi\Downloads\Schule\BBBaden\2.IMS\C# Projekte\Zahlenratespiel2\obj\Debug\net6.0\refint\Zahlenratespiel2.dll
+C:\Users\haldi\Downloads\Schule\BBBaden\2.IMS\C# Projekte\Zahlenratespiel2\obj\Debug\net6.0\Zahlenratespiel2.pdb
+C:\Users\haldi\Downloads\Schule\BBBaden\2.IMS\C# Projekte\Zahlenratespiel2\obj\Debug\net6.0\Zahlenratespiel2.genruntimeconfig.cache
+C:\Users\haldi\Downloads\Schule\BBBaden\2.IMS\C# Projekte\Zahlenratespiel2\obj\Debug\net6.0\ref\Zahlenratespiel2.dll
